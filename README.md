@@ -1,6 +1,6 @@
 I.About the Project:
 
-This project invest in the relationship between Budget and Success of a movie. Data is collected from 1987 tp 2017 cover all genres publiced in the period of time.
+This project invest in the relationship between Budget and Success of a movie. Data is collected from 1987 tp 2017 cover all genres publiced in the period of time. Based on the illustrations of the data to show the correlation of the two variables budget and gross revenue
 Throughout the project, we will get a clearer picture of the relationship that led to the success of the films between 1987 and 2017
 
 II.Conclusion:
